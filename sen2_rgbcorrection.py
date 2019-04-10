@@ -16,9 +16,9 @@ class Sen2colorcorrection():
     def __init__(self,
                  zipfile,
                  rgb_color_corrected,
-                 R = "*.SAFE/GRANULE/*/IMG_DATA/*_B04.jp2",
-                 G = "*.SAFE/GRANULE/*/IMG_DATA/*_B03.jp2",
-                 B = "*.SAFE/GRANULE/*/IMG_DATA/*_B02.jp2",
+                 R = "*.SAFE/GRANULE/*/IMG_DATA/R10m/*_B04_10m.jp2",
+                 G = "*.SAFE/GRANULE/*/IMG_DATA/R10m/*_B03_10m.jp2",
+                 B = "*.SAFE/GRANULE/*/IMG_DATA/R10m/*_B02_10m.jp2",
                  rgbimage = "rgb.tif"):
         self.unzip(zipfile)
         ok = self.stack(rgbimage, R, G, B)
@@ -49,4 +49,4 @@ class Sen2colorcorrection():
 #B = folder+"*_B02.jp2"
 
 
-Sen2colorcorrection('L1C_T18TWL_A016310_20180806T154402.zip', 'mycorrectedimg.tif')
+Sen2colorcorrection('S2A_MSIL2A_20180901T105621_N0208_R094_T31UDQ_20180901T162709.zip', 'mycorrectedimg.tif')

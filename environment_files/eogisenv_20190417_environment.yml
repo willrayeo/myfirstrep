@@ -1,0 +1,214 @@
+name: eogisenv
+dependencies:
+- affine=2.1.0=py35_0
+- anaconda=custom=py35_0
+- anaconda::cftime=1.0.0b1=py35h917ab60_0
+- anaconda::dask-core=0.19.1=py35_0
+- anaconda::imageio=2.4.1=py35_0
+- anaconda::intel-openmp=2019.0=118
+- anaconda::kiwisolver=1.0.1=py35h219a9d8_0
+- anaconda::libcxx=4.0.1=h579ed51_0
+- anaconda::libcxxabi=4.0.1=hebd6815_0
+- anaconda::libgfortran=3.0.1=h93005f0_2
+- anaconda::matplotlib=2.2.2=py35ha7267d0_0
+- anaconda::mkl=2019.0=118
+- anaconda::mkl_fft=1.0.4=py35h5d10147_1
+- anaconda::mkl_random=1.0.1=py35h5d10147_1
+- anaconda::netcdf4=1.4.1=py35h08833f9_0
+- anaconda::numpy=1.15.1=py35h6a91979_0
+- anaconda::numpy-base=1.15.1=py35h8a80b8c_0
+- anaconda::opencv=3.4.1=py35h6fd60c2_1
+- anaconda::pillow=5.1.0=py35hfcce615_0
+- anaconda::pywavelets=1.0.0=py35h1d22016_0
+- anaconda::scikit-image=0.14.0=py35h0a44026_1
+- anaconda::scikit-learn=0.19.1=py35h2b554eb_0
+- anaconda::scipy=1.1.0=py35h28f7352_1
+- asn1crypto=0.22.0=py35_0
+- attrs=15.2.0=py35_0
+- blas=1.0=mkl
+- boto3=1.4.5=py35_0
+- botocore=1.5.92=py35_0
+- bzip2=1.0.6=3
+- certifi=2016.2.28=py35_0
+- cffi=1.10.0=py35_0
+- click=6.7=py35_0
+- click-plugins=1.0.3=py35_0
+- cligj=0.4.0=py35_0
+- cloudpickle=0.4.0=py35_0
+- conda-forge::arcsi=3.6.1=py35_3
+- conda-forge::boost-cpp=1.67.0=h3a22d5f_0
+- conda-forge::ca-certificates=2018.8.24=ha4d7672_0
+- conda-forge::cairo=1.14.12=he56eebe_3
+- conda-forge::cgal=4.12=py35h8634a1c_1
+- conda-forge::cryptography-vectors=2.3.1=py35_0
+- conda-forge::curl=7.61.0=h93b3f91_2
+- conda-forge::descartes=1.1.0=py_2
+- conda-forge::expat=2.2.5=hfc679d8_2
+- conda-forge::ffmpeg=4.0.2=ha6a6e2b_0
+- conda-forge::fiona=1.7.13=py35hb00a9d7_3
+- conda-forge::fontconfig=2.13.0=h8c010e7_5
+- conda-forge::freetype=2.8.1=hfa320df_1
+- conda-forge::freexl=1.0.5=h470a237_2
+- conda-forge::gdal=2.2.4=py35hb00a9d7_9
+- conda-forge::geopandas=0.4.0=py_1
+- conda-forge::geos=3.6.2=hfc679d8_3
+- conda-forge::geotiff=1.4.2=h700e5ad_4
+- conda-forge::gettext=0.19.8.1=h1f1d5ed_1
+- conda-forge::giflib=5.1.4=h470a237_1
+- conda-forge::glib=2.55.0=h464dc38_2
+- conda-forge::gmp=6.1.2=hfc679d8_0
+- conda-forge::gnutls=3.5.19=h2a4e5f8_1
+- conda-forge::graphite2=1.3.12=h7d4d677_1
+- conda-forge::h5py=2.8.0=py35hb794570_1
+- conda-forge::hdf4=4.2.13=h951d187_2
+- conda-forge::hdf5=1.10.2=hc401514_2
+- conda-forge::icu=58.2=hfc679d8_0
+- conda-forge::jasper=1.900.1=hff1ad4c_5
+- conda-forge::jpeg=9c=h470a237_1
+- conda-forge::json-c=0.12.1=h470a237_1
+- conda-forge::kealib=1.4.9=h0bee7d0_2
+- conda-forge::krb5=1.14.6=0
+- conda-forge::libdap4=3.19.1=h18059cb_1
+- conda-forge::libgcc=4.8.5=hdbeacc1_10
+- conda-forge::libgdal=2.2.4=hdb23ba1_9
+- conda-forge::libiconv=1.15=h470a237_3
+- conda-forge::libkml=1.3.0=hccc92b1_8
+- conda-forge::libnetcdf=4.6.1=h039f2a5_8
+- conda-forge::libpng=1.6.35=ha92aebf_2
+- conda-forge::libspatialindex=1.8.5=hfc679d8_3
+- conda-forge::libspatialite=4.3.0a=h3b29d86_23
+- conda-forge::libtiff=4.0.9=he6b73bb_2
+- conda-forge::libuuid=1.0.3=1
+- conda-forge::libwebp=0.5.2=7
+- conda-forge::libxml2=2.9.8=h422b904_5
+- conda-forge::mpfr=4.0.1=h16a7912_0
+- conda-forge::muparser=2.2.5=hfc679d8_1005
+- conda-forge::ncurses=6.1=hfc679d8_1
+- conda-forge::nettle=3.3=0
+- conda-forge::openh264=1.7.0=0
+- conda-forge::openjpeg=2.3.0=h316dc23_3
+- conda-forge::openssl=1.0.2p=h470a237_0
+- conda-forge::pcre=8.41=hfc679d8_3
+- conda-forge::poppler=0.67.0=hb55ee21_1
+- conda-forge::poppler-data=0.4.9=0
+- conda-forge::proj4=4.9.3=h470a237_8
+- conda-forge::py6s=1.7.0=py_1
+- conda-forge::pyqt=5.6.0=py35h8210e8a_7
+- conda-forge::pysolar=0.6=py35_0
+- conda-forge::python=3.5.5=h5001a0f_2
+- conda-forge::python-fmask=0.4.5=py35_1
+- conda-forge::qt=5.6.2=hd4c90f3_9
+- conda-forge::rasterio=1.0.5=py35h1b5fcde_0
+- conda-forge::rasterstats=0.13.0=py_0
+- conda-forge::readline=7.0=haf1bffa_1
+- conda-forge::rios=1.4.6=py35_0
+- conda-forge::rsgislib=3.5.7=py35hf3e2585_4
+- conda-forge::rtree=0.8.3=py35_0
+- conda-forge::sip=4.18.1=py35hfc679d8_0
+- conda-forge::sixs=1.1=ha44fe06_1
+- conda-forge::snuggs=1.4.1=py_1
+- conda-forge::sqlite=3.25.1=hb1c47c0_0
+- conda-forge::tk=8.6.8=0
+- conda-forge::tuiview=1.2.3=py35h0e9060d_2
+- conda-forge::x264=1!152.20180717=h470a237_1
+- conda-forge::xerces-c=3.2.0=h5d6a6da_2
+- conda-forge::xz=5.2.4=h470a237_1
+- cryptography=1.8.1=py35_0
+- cycler=0.10.0=py35_0
+- decorator=4.1.2=py35_0
+- docutils=0.14=py35_0
+- gsl=2.2.1=0
+- harfbuzz=0.9.39=1
+- idna=2.6=py35_0
+- jmespath=0.9.0=py35_0
+- libffi=3.2.1=1
+- libpq=9.5.4=0
+- libssh2=1.8.0=0
+- libxslt=1.1.28=2
+- munch=2.2.0=py35_0
+- networkx=1.11=py35_0
+- olefile=0.44=py35_0
+- openblas=0.2.19=1
+- packaging=16.8=py35_0
+- pandas=0.20.3=py35_0
+- pip=9.0.1=py35_1
+- pixman=0.34.0=0
+- postgresql=9.5.4=0
+- psycopg2=2.7.1=py35_0
+- pycparser=2.18=py35_0
+- pyopenssl=17.0.0=py35_0
+- pyparsing=2.2.0=py35_0
+- pyproj=1.9.5.1=py35_0
+- pysal=1.13.0=py35_0
+- pysocks=1.6.6=py35_0
+- python-dateutil=2.6.1=py35_0
+- pytz=2017.2=py35_0
+- s3transfer=0.1.10=py35_0
+- setuptools=36.4.0=py35_1
+- shapely=1.5.16=py35_0
+- simplejson=3.11.1=py35_0
+- six=1.10.0=py35_0
+- sqlalchemy=1.1.13=py35_0
+- toolz=0.8.2=py35_0
+- tornado=4.5.2=py35_0
+- urllib3=1.21.1=py35_0
+- wheel=0.29.0=py35_0
+- zlib=1.2.11=0
+- pip:
+  - arcsi==3.1.6
+  - atom==0.4.1
+  - atomicwrites==1.2.1
+  - bumpversion==0.5.3
+  - cftime==1.0.0b1
+  - chardet==3.0.4
+  - configparser==3.5.0
+  - cryptography-vectors==2.3.1
+  - dask==0.19.1
+  - fiona==1.7.13
+  - future==0.16.0
+  - gbdx-auth==0.4.0
+  - gdal==2.2.4
+  - h5py==2.8.0
+  - imageio==2.4.1
+  - kiwisolver==1.0.1
+  - matplotlib==2.2.2
+  - mkl-fft==1.0.4
+  - mkl-random==1.0.1
+  - mock==2.0.0
+  - more-itertools==4.3.0
+  - multidict==4.4.2
+  - netcdf4==1.4.1
+  - numpy==1.15.1
+  - oauthlib==2.1.0
+  - opencv-python==3.4.3.18
+  - pathlib2==2.3.2
+  - pbr==4.2.0
+  - pillow==5.1.0
+  - pluggy==0.7.1
+  - py==1.6.0
+  - pyjwt==1.6.4
+  - pysolar==0.6
+  - pytest==3.8.0
+  - pytest-runner==4.2
+  - python-fmask==0.4.5
+  - pywavelets==1.0.0
+  - pyyaml==3.13
+  - rasterio==1.0.5
+  - rasterstats==0.13.0
+  - requests==2.19.1
+  - requests-oauthlib==1.0.0
+  - rio-color==1.0.0
+  - rio-mucho==1.0.0
+  - rios==1.4.6
+  - rsgislib==0.1
+  - rtree==0.8.3
+  - scikit-image==0.14.0
+  - scikit-learn==0.19.1
+  - scipy==1.1.0
+  - snuggs==1.4.2
+  - tuiview==1.2.3
+  - vcrpy==2.0.0
+  - wrapt==1.10.11
+  - yarl==1.2.6
+prefix: /Users/williamray/miniconda3/envs/eogisenv
+

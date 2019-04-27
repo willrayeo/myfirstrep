@@ -4,7 +4,7 @@ from zipfile import ZipFile
 
 class Sen2colorcorrection():
     """
-    Class that collects methods of CNNClassifier class
+    Class that collects methods of Sen2colorcorrection class
 
     class attributes:
     zipfile = the sentinel 2 zipfile downloaded from openhub. Can sit in same directory\

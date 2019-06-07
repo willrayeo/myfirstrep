@@ -1,0 +1,5 @@
+1. to run a script using atom
+
+   Use Command + i
+
+   Make sure you opened Atom from the command line after activating the command line!

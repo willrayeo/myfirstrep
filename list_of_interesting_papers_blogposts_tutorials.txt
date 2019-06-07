@@ -8,3 +8,11 @@ https://medium.com/@davidventuri/every-single-machine-learning-course-on-the-int
 Conda related stuff
 
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#sharing-an-environment
+
+Atom
+
+https://medium.com/better-programming/setting-up-your-dev-workspace-with-atom-cf2a32becad6
+
+Git
+
+https://medium.com/@ahmedmahmoud.eltaher/git-manual-for-beginners-7932a6523d2f

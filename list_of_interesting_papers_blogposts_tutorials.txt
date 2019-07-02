@@ -17,7 +17,13 @@ https://medium.com/better-programming/setting-up-your-dev-workspace-with-atom-cf
 Git
 
 https://medium.com/@ahmedmahmoud.eltaher/git-manual-for-beginners-7932a6523d2f
+https://medium.com/@ConnorFinnegan/lesser-known-git-commands-that-are-good-to-know-d14595180daf?source=email-c5d7c51f3620-1560158831820-digest.reader------0-58------------------1904ab47_36bf_4143_8562_daa3c7598674-1&sectionName=top
 
 ML & DL General
 
 https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5?source=email-c5d7c51f3620-1555741007774-digest.reader------2-49------------------c0379798_4ac0_419c_ac34_56a28a3e276e-1&sectionName=top
+https://medium.com/@shay.strong/openstreetmap-data-to-ml-training-labels-for-object-detection-ce0a3ccdb907
+
+Earth Observation & Deep learning
+
+https://medium.com/@daniel.moraite/tree-cover-prediction-with-deep-learning-afeb0b663966?source=email-c5d7c51f3620-1561361005108-digest.reader------0-3------------------55c4ab4b_0999_4a2a_9335_816ceaea8119-1&sectionName=top

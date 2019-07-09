@@ -23,7 +23,11 @@ ML & DL General
 
 https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5?source=email-c5d7c51f3620-1555741007774-digest.reader------2-49------------------c0379798_4ac0_419c_ac34_56a28a3e276e-1&sectionName=top
 https://medium.com/@shay.strong/openstreetmap-data-to-ml-training-labels-for-object-detection-ce0a3ccdb907
-
+https://medium.com/@prateekkarkare/convolutional-neural-networks-simplified-9c5e63703c3f?source=email-c5d7c51f3620-1551593717654-digest.reader------0-49------------------b7224f81_7ea9_41a4_b05e_bf5cda5c763e-1&sectionName=top
 Earth Observation & Deep learning
 
 https://medium.com/@daniel.moraite/tree-cover-prediction-with-deep-learning-afeb0b663966?source=email-c5d7c51f3620-1561361005108-digest.reader------0-3------------------55c4ab4b_0999_4a2a_9335_816ceaea8119-1&sectionName=top
+https://medium.com/@priya.dwivedi/pedestrian-detection-in-aerial-images-using-retinanet-9053e8a72c6?source=email-c5d7c51f3620-1552027356192-digest.reader------0-59------------------764781cf_8285_45fc_819f_85c21d80cb88-1&sectionName=top
+
+python
+https://medium.com/@chrisdoucette15/turning-python-scripts-into-cli-commands-aecf56dfda18?source=email-c5d7c51f3620-1550728335809-digest.reader------0-59------------------6b451756_a579_4d48_93fe_d5c52e6fd133-1&sectionName=top

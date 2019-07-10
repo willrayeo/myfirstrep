@@ -28,6 +28,8 @@ Earth Observation & Deep learning
 
 https://medium.com/@daniel.moraite/tree-cover-prediction-with-deep-learning-afeb0b663966?source=email-c5d7c51f3620-1561361005108-digest.reader------0-3------------------55c4ab4b_0999_4a2a_9335_816ceaea8119-1&sectionName=top
 https://medium.com/@priya.dwivedi/pedestrian-detection-in-aerial-images-using-retinanet-9053e8a72c6?source=email-c5d7c51f3620-1552027356192-digest.reader------0-59------------------764781cf_8285_45fc_819f_85c21d80cb88-1&sectionName=top
+https://medium.com/the-downlinq/the-good-and-the-bad-in-the-spacenet-off-nadir-building-footprint-extraction-challenge-4c3a96ee9c72
+https://medium.com/the-downlinq/robustness-of-limited-training-data-for-building-footprint-identification-part-1-8c55810b5ef9
 
 python
 https://medium.com/@chrisdoucette15/turning-python-scripts-into-cli-commands-aecf56dfda18?source=email-c5d7c51f3620-1550728335809-digest.reader------0-59------------------6b451756_a579_4d48_93fe_d5c52e6fd133-1&sectionName=top
